@@ -30,7 +30,7 @@ Commit and push the project, including `.devcontainer/devcontainer.json` and
 `package-lock.json`, to GitHub. On the repository page, choose **Code > Codespaces
 > Create codespace on main** (or your working branch).
 
-The container provides Node.js 24 and runs `npm ci` automatically during creation.
+The container provides Node.js 22 and runs `npm ci` automatically during creation.
 After setup finishes, run this command in the Codespaces terminal:
 
 ```sh

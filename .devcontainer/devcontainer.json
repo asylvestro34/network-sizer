@@ -1,6 +1,6 @@
 {
   "name": "network-sizer",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-24-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
   "remoteUser": "node",
   "postCreateCommand": "npm ci",
   "forwardPorts": [5173],
